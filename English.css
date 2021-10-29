@@ -1,0 +1,76 @@
+.my-container{
+    
+    background-color: navy;
+    border-radius: 20px;
+
+}
+
+.welcome{
+    padding-top: 5px;
+    text-align: center;
+}
+.intro{
+   background-color:navy;
+   border-width: 10em;
+   border-color: black;
+   border-radius: 20px;
+}
+.module-1{
+   
+   
+    border:2px solid #000;
+  
+  
+    border-color: black;
+    border-radius: 2px;
+    padding: 8%;
+
+}
+
+.formulae{
+    width:75%;
+    Height:50%;
+
+    padding:30px;
+    border:2px solid #000;
+  
+    border-color: black;
+    border-radius: 20px;
+    border-radius: 20px;
+    background-color: rgb(179, 226, 245);
+
+}
+
+.table{
+        border:2px solod black;
+        width:80%;
+        height:40%;
+        margin:0 auto;
+}
+.table1{
+    border:2px solod black;
+    width:60%;
+    height:40%;
+    margin:0 auto;
+    background-color: rgb(183, 224, 243);
+    column-gap: 10%;
+    column-width: 100%;
+    column-width: auto;
+    text-align: center;
+
+}
+.final{
+   
+       
+    border:5px solid white;
+  
+  
+    border-color:black;
+    border-radius: 5px;
+    padding: 8%;
+
+
+
+}
+
+
